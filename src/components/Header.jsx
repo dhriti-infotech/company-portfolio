@@ -113,7 +113,7 @@ function Header(props) {
             <Box
             component="img"
             src={logo}
-            alt="Driti Infotech Logo"
+            alt="Dhriti Infotech Logo"
             sx={{
                 height: 40,
                 width: 'auto',
@@ -125,7 +125,7 @@ function Header(props) {
                 noWrap
                 component="div"
             >
-            Driti Infotech
+            Dhriti Infotech
             </Typography>
         </Box>
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
@@ -196,7 +196,7 @@ function Header(props) {
                 Outsourcing & Offshoring Consulting
               </Typography>
               <Typography variant="body1" paragraph>
-                At Driti Infotech, we understand that efficiency, scalability, and cost optimization are vital for business growth. Our Outsourcing & Offshoring Consulting services help companies streamline operations by connecting them with the right talent and processes across global markets. Whether you're looking to expand your development team, delegate routine tasks, or tap into specialized expertise, we help you design an outsourcing model that aligns with your strategic goals.
+                At Dhriti Infotech, we understand that efficiency, scalability, and cost optimization are vital for business growth. Our Outsourcing & Offshoring Consulting services help companies streamline operations by connecting them with the right talent and processes across global markets. Whether you're looking to expand your development team, delegate routine tasks, or tap into specialized expertise, we help you design an outsourcing model that aligns with your strategic goals.
               </Typography>
               <Typography variant="body1" paragraph>
                 We don’t believe in one-size-fits-all. Our consultants work closely with you to assess business functions, identify outsourcing opportunities, and navigate regulatory and compliance landscapes. With a strong focus on quality, security, and ROI, we enable you to stay competitive in a fast-evolving global economy—all while reducing overhead and gaining operational agility.
@@ -210,7 +210,7 @@ function Header(props) {
                 Web Development
               </Typography>
               <Typography variant="body1" paragraph>
-                Your website is your first impression—and we make sure it’s a lasting one. At Driti Infotech, our Web Page Development service blends intuitive UI/UX design with powerful backend functionality. We craft responsive, SEO-optimized, and mobile-ready websites that look stunning on every device and load in seconds.
+                Your website is your first impression—and we make sure it’s a lasting one. At Dhriti Infotech, our Web Page Development service blends intuitive UI/UX design with powerful backend functionality. We craft responsive, SEO-optimized, and mobile-ready websites that look stunning on every device and load in seconds.
               </Typography>
               <Typography variant="body1" paragraph>
                 Whether you're launching a startup or rebranding an enterprise, we develop scalable websites using the latest frameworks (React, Next.js, etc.) with customized integrations for CRMs, analytics, and ecommerce platforms. The result? A user experience that drives engagement, builds trust, and turns visitors into loyal customers.
@@ -238,7 +238,7 @@ function Header(props) {
                 Cloud Solutions for IoT
               </Typography>
               <Typography variant="body1" paragraph>
-                The future of connectivity is here—and we help you harness it. Driti Infotech specializes in Cloud Solutions for IoT that bring intelligence, automation, and control to your devices. From smart home systems to industrial automation, our cloud platforms enable secure, scalable communication between your hardware and applications.
+                The future of connectivity is here—and we help you harness it. Dhriti Infotech specializes in Cloud Solutions for IoT that bring intelligence, automation, and control to your devices. From smart home systems to industrial automation, our cloud platforms enable secure, scalable communication between your hardware and applications.
               </Typography>
               <Typography variant="body1" paragraph>
                 We integrate with AWS IoT, Azure, or private clouds to deliver real-time data analytics, remote monitoring, and seamless device provisioning. With our solutions, you can cut latency, improve decision-making, and launch IoT products faster—all while ensuring enterprise-grade security and compliance.
@@ -266,7 +266,7 @@ function Header(props) {
                 HR Portals & Employee Engagement Tools
               </Typography>
               <Typography variant="body1" paragraph>
-                Empower your workforce with intelligent HR Portals and Employee Engagement Tools that drive productivity and retention. At Driti Infotech, we build custom HR platforms that handle everything from onboarding and payroll to performance management and internal communication.
+                Empower your workforce with intelligent HR Portals and Employee Engagement Tools that drive productivity and retention. At Dhriti Infotech, we build custom HR platforms that handle everything from onboarding and payroll to performance management and internal communication.
               </Typography>
               <Typography variant="body1" paragraph>
                 But we don’t stop at HR automation. We integrate pulse surveys, recognition tools, and gamification features to boost engagement and morale. Whether you have a growing startup or a multinational team, our solutions help you create a connected, motivated, and high-performing workplace.

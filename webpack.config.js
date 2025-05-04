@@ -11,7 +11,7 @@ export default {
   output: {
     filename: 'bundle.js', // The name of your bundled JavaScript file
     path: path.resolve(__dirname, 'dist'), // Output directory
-    publicPath: '/', // Public URL of the output directory
+    publicPath: '/company-portfolio/',
   },
   devServer: {
     static: './dist',
