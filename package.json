@@ -2,7 +2,7 @@
   "name": "driti-infotech",
   "private": true,
   "version": "0.0.1",
-  "homepage": "https://github.com/dhriti-infotech/company-portfolio",
+  "homepage": "https://dhriti-infotech.github.io/company-portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
