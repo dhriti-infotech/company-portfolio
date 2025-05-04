@@ -1,0 +1,17 @@
+.paper1 {
+    border-radius: 20px !important;
+    transition: background-color 5s ease, color 5s ease;
+}
+
+.paper1:hover {
+    background: black;
+    color: white;
+}
+
+.paper1:hover * {
+    color: white;
+}
+
+.awssld__content > img, .awssld__content > video {
+    object-fit: fill !important;
+}
