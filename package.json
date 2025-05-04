@@ -1,14 +1,17 @@
 {
   "name": "driti-infotech",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dhriti-infotech/company-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "script": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
